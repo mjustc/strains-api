@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "5f0ca1a8954443354c7423e0"
+  },
+  "flavor": "Earthy"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742409"
+  },
+  "flavor": "Mango"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423e3"
+  },
+  "flavor": "Spicy/Herbal"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423ec"
+  },
+  "flavor": "Grape"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f7"
+  },
+  "flavor": "Apple"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742403"
+  },
+  "flavor": "Apricot"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423e6"
+  },
+  "flavor": "Pepper"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c74240c"
+  },
+  "flavor": "Vanilla"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c74240e"
+  },
+  "flavor": "Tobacco"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423e5"
+  },
+  "flavor": "Pungent"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423fa"
+  },
+  "flavor": "Honey"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f2"
+  },
+  "flavor": "Nutty"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f0"
+  },
+  "flavor": "Tropical"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f6"
+  },
+  "flavor": "Ammonia"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423ff"
+  },
+  "flavor": "Mint"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742404"
+  },
+  "flavor": "Peach"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c74240d"
+  },
+  "flavor": "Plum"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423e2"
+  },
+  "flavor": "Chemical"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423e8"
+  },
+  "flavor": "Citrus"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423ea"
+  },
+  "flavor": "Sweet"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423ef"
+  },
+  "flavor": "Diesel"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f8"
+  },
+  "flavor": "Rose"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f9"
+  },
+  "flavor": "Butter"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423fe"
+  },
+  "flavor": "Strawberry"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f1"
+  },
+  "flavor": "Grapefruit"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423fd"
+  },
+  "flavor": "Lavender"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c74240f"
+  },
+  "flavor": "Violet"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f3"
+  },
+  "flavor": "Lemon"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742402"
+  },
+  "flavor": "Pear"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742408"
+  },
+  "flavor": "Tar"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742401"
+  },
+  "flavor": "Tree Fruit"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742406"
+  },
+  "flavor": "Menthol"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742407"
+  },
+  "flavor": "Coffee"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423e4"
+  },
+  "flavor": "Pine"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423e7"
+  },
+  "flavor": "Flowery"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423e9"
+  },
+  "flavor": "Orange"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423ed"
+  },
+  "flavor": "Woody"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423ee"
+  },
+  "flavor": "Cheese"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f4"
+  },
+  "flavor": "Berry"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423eb"
+  },
+  "flavor": "Skunk"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423f5"
+  },
+  "flavor": "Blueberry"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423fb"
+  },
+  "flavor": "Tea"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c7423fc"
+  },
+  "flavor": "Lime"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742400"
+  },
+  "flavor": "Chestnut"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c742405"
+  },
+  "flavor": "Blue Cheese"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c74240a"
+  },
+  "flavor": "Pineapple"
+},{
+  "_id": {
+    "$oid": "5f0ca391954443354c74240b"
+  },
+  "flavor": "Sage"
+}]

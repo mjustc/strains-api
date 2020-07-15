@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423bc"
+  },
+  "effect": "Hungry",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d7"
+  },
+  "effect": "Inflammation",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c4"
+  },
+  "effect": "Creative",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423bd"
+  },
+  "effect": "Euphoric",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423ca"
+  },
+  "effect": "Headache",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423cf"
+  },
+  "effect": "Fatigue",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d5"
+  },
+  "effect": "Giggly",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423be"
+  },
+  "effect": "Happy",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c5"
+  },
+  "effect": "Energetic",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423bf"
+  },
+  "effect": "Depression",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d4"
+  },
+  "effect": "Anxious",
+  "type": "negative"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d8"
+  },
+  "effect": "Spasticity",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423cb"
+  },
+  "effect": "Uplifted",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423ba"
+  },
+  "effect": "Relaxed",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c7"
+  },
+  "effect": "Lack of Appetite",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c8"
+  },
+  "effect": "Nausea",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423cd"
+  },
+  "effect": "Paranoid",
+  "type": "negative"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423da"
+  },
+  "effect": "Muscle Spasms",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423ce"
+  },
+  "effect": "Sleepy",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d1"
+  },
+  "effect": "Dry Eyes",
+  "type": "negative"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423bb"
+  },
+  "effect": "Dizzy",
+  "type": "negative"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c0"
+  },
+  "effect": "Insomnia",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c3"
+  },
+  "effect": "Cramps",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d6"
+  },
+  "effect": "Aroused",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c2"
+  },
+  "effect": "Stress",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c6"
+  },
+  "effect": "Talkative",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c9"
+  },
+  "effect": "Dry Mouth",
+  "type": "negative"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423cc"
+  },
+  "effect": "Tingly",
+  "type": "positive"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d0"
+  },
+  "effect": "Headaches",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d3"
+  },
+  "effect": "Eye Pressure",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d9"
+  },
+  "effect": "Seizures",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423c1"
+  },
+  "effect": "Pain",
+  "type": "medical"
+},{
+  "_id": {
+    "$oid": "5f0c9c7c954443354c7423d2"
+  },
+  "effect": "Focused",
+  "type": "positive"
+}]

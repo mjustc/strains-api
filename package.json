@@ -1,0 +1,22 @@
+{
+  "name": "seedsapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "generate-schema": "^2.6.0",
+    "http": "0.0.1-security",
+    "mongoose": "^5.9.22",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "swagger-ui-express": "^4.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
