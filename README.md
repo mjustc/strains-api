@@ -12,11 +12,12 @@
  6. Use Postman or curl to request:
  
  `POST localhost:3000/survey`
-
+````
 {
-    "race": "sativa" ,
+    "race": "indica",
     "positive": [
-        "Happy"
+        "Happy",
+        "Relaxed"
     ],
     "medical": [
         "Stress"
@@ -24,8 +25,10 @@
     "negative": [
         "Dizzy"
     ],
-    "flavor": [ "Diesel"]
+    "flavors": [
+        "Mango"
+    ]
 }
- 
+ ````
 
- 4. Also there is a swagger http://localhost:3000/api-docs/
+ 4. check swagger to see the documentation. `http://localhost:3000/api-docs/`
