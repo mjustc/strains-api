@@ -8,7 +8,7 @@
  1. Install Node.js and MongoDB.
  2. Create 3 collections into test database: strains, effects and flavors. Add data.json files to each collection.
  3. Run your mongo in the default port. You can check the logs if you are conected.
- 4. cd /strains-api and npm install & npm strat or npm test
+ 4. cd /strains-api and `npm install` & `npm start` or `npm test`
  6. Use Postman or curl to request:
  
  `POST localhost:3000/survey`
