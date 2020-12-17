@@ -1,0 +1,1595 @@
+[{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d09"
+  },
+  "id": 72,
+  "name": "Arjan's Strawberry Haze",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Relaxed",
+      "Uplifted",
+      "Energetic"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Dry Mouth",
+      "Paranoid",
+      "Dizzy"
+    ],
+    "medical": [
+      "Fatigue",
+      "Depression",
+      "Insomnia",
+      "Pain",
+      "Muscle Spasms",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Strawberry",
+    "Sweet",
+    "Earthy"
+  ],
+  "description": "Arjan's Strawberry Haze was created by Arjan and introduced on the market in 2006. In 2005, Strawberry Haze won 1st prize at the Green House Very Important Smokers Panel. The buds of Strawberry Haze smell of strawberries and provide a sweet taste, which is heightened when roots are given free reign in soil. It is characterized as a tall plant with long branches. It is a simple plant to grow and maintain, as it is known to be adaptable to humidity. Flowering time is approximately 10 weeks with a THC level up to 20% and CBD of 1.2%."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d9f"
+  },
+  "id": 990,
+  "name": "Hawaiian Dream",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Uplifted",
+      "Relaxed",
+      "Focused",
+      "Happy",
+      "Euphoric"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Anxious",
+      "Dry Eyes"
+    ],
+    "medical": [
+      "Depression",
+      "Stress",
+      "Fatigue",
+      "Lack of Appetite",
+      "Headaches"
+    ]
+  },
+  "flavors": [
+    "Tropical",
+    "Pineapple",
+    "Sweet"
+  ],
+  "description": "Hawaiian Dream is an uplifting sativa strain that crosses Blue Dream with a Hawaiian variety. Though some renditions of this strain have a THC-dominant chemical profile, Hawaiian Dream is best known for its high CBD content which is often twice as abundant as its THC. Patients look to this high-CBD sativa to remedy pain, inflammation, and anxiety without physical heaviness or a foggy head."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095dc7"
+  },
+  "id": 1120,
+  "name": "Johnny’s Tonic",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Hungry",
+      "Tingly"
+    ],
+    "negative": [
+      "Dry Eyes"
+    ],
+    "medical": [
+      "Cramps",
+      "Inflammation",
+      "Fatigue",
+      "Nausea",
+      "Pain"
+    ]
+  },
+  "flavors": [
+    "Flowery",
+    "Skunk",
+    "Pungent"
+  ],
+  "description": "Johnny’s Tonic is a sativa-dominant California strain bred by Elemental Seeds. It took home a 2014 Cannabis Cup award for its high CBD content inherited from Cannatonic."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095e65"
+  },
+  "id": 1920,
+  "name": "Swiss Gold",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Uplifted",
+      "Focused",
+      "Hungry"
+    ],
+    "negative": [
+      "Dry Eyes",
+      "Dry Mouth",
+      "Anxious",
+      "Dizzy",
+      "Paranoid"
+    ],
+    "medical": [
+      "Stress",
+      "Pain",
+      "Headaches",
+      "Depression",
+      "Inflammation"
+    ]
+  },
+  "flavors": [
+    "Citrus",
+    "Diesel",
+    "Berry"
+  ],
+  "description": "Swiss Gold is a high-CBD strain from Northern California that is typically classified as a sativa and was bred by the late Lawrence Ringo. Ringo describes the structure of the strain as “pure indica, short and fat.” Swiss Gold regularly tests with CBD:THC ratios of 2:1, and carries an earthy aroma of fresh citrus. The relaxing effects reduce pain and stress while stimulating the appetite, and eventually cradle you to sleep. "
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d9b"
+  },
+  "id": 978,
+  "name": "Harley Twin",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Creative",
+      "Energetic",
+      "Euphoric",
+      "Relaxed"
+    ],
+    "negative": [
+      "Dry Mouth"
+    ],
+    "medical": []
+  },
+  "flavors": [
+    "Sweet"
+  ],
+  "description": "Harley Twin is a CBD-rich, sativa-dominant strain that inherits genetics from Harle-Tsu and Harlequin. This wellness oriented combination has an alert buzz that is maintained by its balanced THC/CBD ratio, encompassing the mind in soft haze while gently stimulating the body. These effects coupled with the natural anti-inflammatory qualities inherent to Harley Twin can help turn down the dial on minor physical pain, stress, and nausea. Anticipate a grassy aroma with a hint of cherry sweetness after combustion/vaporization."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d04"
+  },
+  "id": 50,
+  "name": "Amnesia",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Uplifted",
+      "Energetic"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid",
+      "Anxious"
+    ],
+    "medical": [
+      "Stress",
+      "Depression",
+      "Pain",
+      "Headaches",
+      "Lack of Appetite",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Sweet",
+    "Citrus"
+  ],
+  "description": "Amnesia is typically a sativa-dominant cannabis strain with some variation between breeders. Skunk, Cinderella 99, and Jack Herer are some of Amnesia’s genetic forerunners, passing on uplifting, creative, and euphoric effects ideal for treating mood disorders. Growers should expect a 9-10 week flowering period with moderate yields. This strain normally has a high THC and low CBD profile and produces intense psychotropic effects that new consumers should be wary of."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095dfa"
+  },
+  "id": 1384,
+  "name": "Moondance",
+  "race": "sativa",
+  "effects": {
+    "positive": [],
+    "negative": [],
+    "medical": []
+  },
+  "flavors": [],
+  "description": "Moondance is a sativa-dominant strain that offers a CBD content as high as 11%. With an average THC level of just 4%, consumers will notice only minimal cerebral, euphoric sensations. Candied grape aromas turn to spicy pepper, fresh mint, and sharp pine flavors on the exhale. Stress, body aches, and painful inflammation wither away while the mind is left agile and clear, making this strain an excellent daytime choice for patients and those needing to stay active. Inheriting genetics from Super Silver Haze, Neville’s Haze, and an unknown CBD-rich parent, Moondance is a variation of the better-known MediHaze sativa."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095e04"
+  },
+  "id": 1420,
+  "name": "Neville's Haze",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Euphoric",
+      "Uplifted",
+      "Happy",
+      "Focused",
+      "Energetic"
+    ],
+    "negative": [
+      "Anxious",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Dizzy",
+      "Paranoid"
+    ],
+    "medical": [
+      "Stress",
+      "Depression",
+      "Fatigue",
+      "Lack of Appetite",
+      "Pain"
+    ]
+  },
+  "flavors": [
+    "Sweet",
+    "Diesel",
+    "Earthy"
+  ],
+  "description": "Neville's Haze was named after the breeder who began this strain. It is a tall sativa and is almost pure Haze. Green House Seeds crossed it to become 1/4 indica. It is known for being a tall plant with a pine cone scent and distinctive floral haze edge. The resin is high and potent, giving it a powerful cerebral high. With a THC content up to 21%, and a CBD up to 1.1%, Neville's Haze won the High Times Cannabis Cup in 1998."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095e64"
+  },
+  "id": 1911,
+  "name": "Sweet Jane",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Focused",
+      "Aroused",
+      "Creative"
+    ],
+    "negative": [
+      "Dry Mouth"
+    ],
+    "medical": [
+      "Fatigue",
+      "Stress",
+      "Depression",
+      "Headaches",
+      "Lack of Appetite"
+    ]
+  },
+  "flavors": [
+    "Rose",
+    "Citrus",
+    "Sweet"
+  ],
+  "description": "Sweet Jane is a sweet-flavored sativa strain that provides an uplifting burst of cerebral energy ideal for daytime use. A selected cut of the famous Island Sweet Skunk, Sweet Jane carries an intense fruity aroma with notes of grapefruit, lemon, and mangos. Colorful calyxes spiral from the buds, woven in fiery hairs and powdered in a sugary coat of crystal resin. With an average THC content of 20% and a subtle CBD profile, Sweet Jane delivers nuanced effects perfect for both relaxing and getting things done."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d6e"
+  },
+  "id": 688,
+  "name": "Doctor Doctor",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Focused",
+      "Happy",
+      "Uplifted",
+      "Aroused"
+    ],
+    "negative": [
+      "Dry Eyes"
+    ],
+    "medical": [
+      "Headaches",
+      "Inflammation",
+      "Muscle Spasms",
+      "Nausea",
+      "Pain"
+    ]
+  },
+  "flavors": [
+    "Citrus",
+    "Flowery",
+    "Strawberry"
+  ],
+  "description": "Doctor Doctor by Vodis USA is a high-CBD sativa-dominant phenotype of the landrace Malawi. This cannabinoid power plant has been known to generate over 20% CBD and approximately 1-2.5% THC. With this medicinal ratio, Doctor Doctor provides potent wellness driven effects that settle nausea, reduce inflammation, and abate anxiety all while preserving mental clarity. Overall, Doctor Doctor is the perfect choice for consumers seeking a smooth, flavorful smoke with the potential to ease both physical and mental stresses.  "
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d47"
+  },
+  "id": 447,
+  "name": "CBD Lilly",
+  "race": "sativa",
+  "effects": {
+    "positive": [],
+    "negative": [],
+    "medical": []
+  },
+  "flavors": [],
+  "description": "CBD Lilly, also known as “Piña Colada,” is a CBD-dominant strain with happy effects. Averaging a 3-to-1 CBD:THC ratio, CBD Lilly is a potent medicine for consumers seeking therapeutic effects. This sativa-dominant pairing of Congo IBL and Queen Mother imbues consumers with uplifting euphoria that coaxes laughter and conversation. Its buzz settles down into the body as functional and mild relaxation that helps with inflammation and physical discomfort. The smell has been described as spicy and grassy.  "
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095dc2"
+  },
+  "id": 1100,
+  "name": "Jamaican Lion",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Uplifted",
+      "Happy",
+      "Energetic"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Mouth",
+      "Dizzy",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "medical": [
+      "Stress",
+      "Depression",
+      "Pain",
+      "Muscle Spasms",
+      "Inflammation",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Nutty",
+    "Lime"
+  ],
+  "description": "Jamaican Lion is a high-CBD sativa strain with mildly psychoactive effects that stimulate creativity and focus without the loss of functionality. Its rich genetic background combines Mountain Lion -- a Rock Bud and Lionheart cross -- with a Jamaican sativa known as Yarders. Shadrock, Jamaican Lion’s creator, first brought the strain to California in 2007, where it was distributed to patients by Harborside. Ushered in by a sweet herbal aroma, Jamaican Lion induces mild psychoactivity that carries through despite its low THC content. Sensory perception sharpens as bad moods dull in clear-headed sensations that can be described as simultaneously uplifting and calming. Few strains compare to Jamaican Lion as it eases pain, anxiety, and inflammation without intoxication or mental cloudiness. Its CBD content is highest around week 9 of flowering, but if you’re looking for more of a 1:1 ratio of CBD and THC, Shadrock recommends harvesting at week 8 instead."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d10"
+  },
+  "id": 119,
+  "name": "Bediol",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Uplifted",
+      "Creative",
+      "Energetic",
+      "Happy"
+    ],
+    "negative": [],
+    "medical": [
+      "Fatigue",
+      "Inflammation",
+      "Nausea",
+      "Pain",
+      "Stress"
+    ]
+  },
+  "flavors": [
+    "Citrus",
+    "Pine",
+    "Lemon"
+  ],
+  "description": "Bediol by Canadian LP Bedrocan is a sativa-dominant strain with a balanced cannabinoid profile of 6.5% THC and 8% CBD. This almost even split caters to a variety of patient needs, including relief of pain, inflammation, anxiety, and nausea. Due to its heightened levels of CBD, Bediol provides a subdued high that is less euphoric and more relaxing. Still, those sensitive to THC should mind their dose. "
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d68"
+  },
+  "id": 644,
+  "name": "Dance World",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Uplifted",
+      "Talkative",
+      "Energetic"
+    ],
+    "negative": [
+      "Dry Mouth"
+    ],
+    "medical": [
+      "Pain",
+      "Stress",
+      "Depression",
+      "Inflammation",
+      "Lack of Appetite"
+    ]
+  },
+  "flavors": [
+    "Flowery",
+    "Pungent",
+    "Citrus"
+  ],
+  "description": "Dance World is a high-CBD sativa strain bred by Royal Queen Seeds in Spain. A cross between Dancehall and Juanita La Lagrimosa, Dance World’s heritage stems primarily from Afghani and Mexican genetics. From its Dancehall parent, Dance World inherits active, uplifting effects that motivate productivity and a positive mindset. Earthy and spicy flavors dominate the palate, but subtle fruity notes bring Dance World sweet undertones. While Dance World shows its sativa genetics in its energetic effects, Dance World plants are more indica in stature and flower after just 8 weeks."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d9a"
+  },
+  "id": 977,
+  "name": "Harley Storm",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Euphoric",
+      "Uplifted",
+      "Creative",
+      "Happy"
+    ],
+    "negative": [
+      "Dry Eyes"
+    ],
+    "medical": [
+      "Inflammation",
+      "Pain",
+      "Stress",
+      "Muscle Spasms",
+      "Depression"
+    ]
+  },
+  "flavors": [
+    "Nutty",
+    "Pungent",
+    "Spicy/Herbal"
+  ],
+  "description": "Harley Storm by Cannavative is a complex union of CBD-rich parent strains. By crossing Harle-Tsu and Thunderstruck, this aptly named strain takes on mild cerebral effects while remaining primarily medicinal. Harley Storm offers consumers an uplifting headiness with alert stimulation while reducing inflammation and pain. Consume this strain’s massive 22:1 CBD/THC ratio on its own or as a supplementary addition to other strains."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095dda"
+  },
+  "id": 1239,
+  "name": "Lemon Haze",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Uplifted",
+      "Energetic",
+      "Euphoric",
+      "Relaxed"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid",
+      "Dizzy",
+      "Anxious"
+    ],
+    "medical": [
+      "Stress",
+      "Depression",
+      "Pain",
+      "Fatigue",
+      "Lack of Appetite"
+    ]
+  },
+  "flavors": [
+    "Lemon",
+    "Citrus",
+    "Sweet"
+  ],
+  "description": "Lemon Haze has been characterized as smelling of fresh peeled lemon slices with a similar taste. Its buds appear to be green and yellow with amber hairs on the trichomes, giving it the yellow tint. This strain's THC has been measured at about 15-20% with a CBD of 0.38%. "
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095df1"
+  },
+  "id": 1346,
+  "name": "MediHaze",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Relaxed",
+      "Uplifted",
+      "Focused",
+      "Energetic"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Anxious",
+      "Paranoid",
+      "Dry Eyes"
+    ],
+    "medical": [
+      "Stress",
+      "Depression",
+      "Pain",
+      "Inflammation",
+      "Nausea",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Pine",
+    "Earthy",
+    "Woody"
+  ],
+  "description": "MediHaze (or CBD Medi Haze) is an 80/20 sativa-dominant strain bred by CBD Crew that crosses genetics from Super Silver Haze, Neville’s Haze, and an undisclosed CBD-rich parent. Its THC to CBD ratio typically comes out 1:1, but some seeds will offer a doubled CBD content. THC and CBD’s synergy provide relief to a variety of symptoms, some of which include pain, inflammation, and anxiety. Pine, mint, and spice aromas burst from MediHaze buds in a fragrant introduction to its clear-headed, uplifting effects. "
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095e1c"
+  },
+  "id": 1559,
+  "name": "Pineapple Thai",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Focused",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Dizzy",
+      "Paranoid"
+    ],
+    "medical": [
+      "Pain",
+      "Headaches",
+      "Muscle Spasms",
+      "Stress",
+      "Depression"
+    ]
+  },
+  "flavors": [
+    "Pineapple",
+    "Tropical",
+    "Citrus"
+  ],
+  "description": "Pineapple Thai is a strain that sets itself apart from the rest with a high 5% CBD content. This flower’s attractiveness comes from its ability to administer powerful pain relief without sedation, embodying true hybrid effects. Although Pineapple Thai is an option for daytime use, its strength may lead to a nighttime preference. Patients who desire the powerful medicinal effects of cannabis without the psychoactive inundation will find Pineapple Thai to be a staple in their arsenal."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095e2a"
+  },
+  "id": 1687,
+  "name": "Rafael",
+  "race": "sativa",
+  "effects": {
+    "positive": [],
+    "negative": [],
+    "medical": []
+  },
+  "flavors": [
+    "Peach"
+  ],
+  "description": "Rafael (or Raphael) is a sativa-dominant strain bred by Tikun Olam to contain high levels of CBD for patients experiencing sleep and digestive disorders. With a THC content of only 1 percent, Rafael is a top choice for patients disinclined to cannabis’ psychoactive effects. This strain, with CBD levels of up to 18 percent, is named after Raphael Mechoulam, a driving force in cannabis research."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d48"
+  },
+  "id": 448,
+  "name": "CBD Mango Haze",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Focused",
+      "Relaxed",
+      "Happy",
+      "Uplifted",
+      "Energetic"
+    ],
+    "negative": [
+      "Dry Mouth"
+    ],
+    "medical": [
+      "Stress",
+      "Pain",
+      "Depression",
+      "Inflammation",
+      "Insomnia"
+    ]
+  },
+  "flavors": [
+    "Mango",
+    "Tropical",
+    "Pepper"
+  ],
+  "description": "CBD Mango Haze is a high-CBD strain released by CBD Crew in 2013. This pleasant and aromatic blend combines the tropical flavors of Mango Haze with the added benefits from high levels of cannabidiol. The buds of CBD Mango Haze express themselves with spicy and sweet notes reminiscent of mango, pineapple, and black pepper. Its CBD:THC ratio can range anywhere from 1:1 – 2:1 and the uplifting sativa-dominant effects draw many medical cannabis consumers to CBD Mango Haze."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d99"
+  },
+  "id": 976,
+  "name": "Harlequin",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Focused",
+      "Uplifted",
+      "Energetic"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Anxious",
+      "Dizzy"
+    ],
+    "medical": [
+      "Pain",
+      "Stress",
+      "Depression",
+      "Inflammation",
+      "Fatigue",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Sweet",
+    "Woody"
+  ],
+  "description": "Harlequin is a 75/25 sativa-dominant strain renowned for its reliable expression of CBD. A descendant of Colombian Gold, a Nepali indica, and Thai and Swiss landrace strains, you can depend on Harlequin to provide clear-headed, alert sativa effects. Unlike most high-CBD strains, Harlequin almost always develops a CBD:THC ratio of 5:2, making this strain one of the most effective out there for treatment of pain and anxiety, as CBD can counteract THC’s paranoia while amplifying its painkilling properties. Flavors can range from earthy musk to sweet mango, but without a doubt, what draws crowds to Harlequin is its ability to relax without sedation and to relieve without intoxication."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095db4"
+  },
+  "id": 1073,
+  "name": "Island Sweet Skunk",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Uplifted",
+      "Energetic",
+      "Focused",
+      "Euphoric"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Paranoid",
+      "Dry Eyes",
+      "Dizzy"
+    ],
+    "medical": [
+      "Stress",
+      "Depression",
+      "Pain",
+      "Fatigue",
+      "Headaches",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Sweet",
+    "Tropical",
+    "Skunk"
+  ],
+  "description": "Island Sweet Skunk, sometimes called Sweet Island Skunk, is a sativa strain that users enjoy for its energetic effects. The flavor is most easily described as “sweet skunk,” where tropical fruit flavors take the lead. Often the fruity aroma is likened to grapefruit. Originally bred by Federation Seed Company in Canada, this strain is a descendant of Skunk #1 and grows tall, straight, high-yielding plants. Some varieties of Island Sweet Skunk have a heightened CBD content to help patients treating anxiety, inflammation, and muscle spasms. Flowering occurs at 7 to 8 weeks and buds will have bright yellow-orange hairs. They will remain loose and fluffy, so make sure they don’t get too dried out. "
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095e76"
+  },
+  "id": 1987,
+  "name": "Thunderstruck",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Relaxed",
+      "Uplifted",
+      "Tingly",
+      "Creative"
+    ],
+    "negative": [],
+    "medical": [
+      "Depression",
+      "Eye Pressure",
+      "Inflammation",
+      "Pain",
+      "Stress"
+    ]
+  },
+  "flavors": [
+    "Sweet",
+    "Pine",
+    "Spicy/Herbal"
+  ],
+  "description": "Thunderstruck is a powerful rock ‘n’ roll themed CBD strain without the big hair. Named after the AC/DC song of the same name, you might have guessed that Thunderstruck is the genetic cross of two high-CBD ACDC phenotypes. And just when you thought things couldn't get more metal, Thunderstruck offers consumers a 12:1 CBD/THC ratio that can help ease nausea, abate seizure activity, and reduce inflammation all while keeping the consumer clear headed. The aroma and flavors of Thunderstruck are grassy and subtle. Enjoy this sativa-dominant cross if you are looking for a quality medicinal strain with little to no psychoactive effects.    "
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095cfa"
+  },
+  "id": 10,
+  "name": "Alaskan Ice",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Uplifted",
+      "Euphoric",
+      "Happy",
+      "Energetic",
+      "Creative"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Paranoid",
+      "Dry Eyes",
+      "Dizzy"
+    ],
+    "medical": [
+      "Fatigue",
+      "Depression",
+      "Stress",
+      "Pain",
+      "Headaches"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Pine",
+    "Minty"
+  ],
+  "description": "Alaskan Ice by Green House Seeds is a powerful sativa that crosses a euphoric White Widow hybrid with the energizing buzz of Haze. Frostlike resin blankets the buds in a promise of soaring psychoactivity, anchored only by its moderate CBD content. The intensity of this 70% sativa strain is recommended for evening consumption and unproductive weekends. Alaskan Ice is a slight variant of Moby Dick, but poses a greater challenge to growers; cultivators with the expertise to raise Alaskan Ice will be rewarded with a highly potent harvest of sour, spicy buds following a 9 week flowering period. The high resin content of Alaskan Ice has made this strain a favorite among hash producers and patients with severe symptoms."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095d55"
+  },
+  "id": 498,
+  "name": "Charlotte's Web",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Uplifted",
+      "Happy",
+      "Focused",
+      "Sleepy"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid",
+      "Dizzy"
+    ],
+    "medical": [
+      "Pain",
+      "Stress",
+      "Depression",
+      "Insomnia",
+      "Nausea",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Pine",
+    "Earthy",
+    "Sweet"
+  ],
+  "description": "Charlotte’s Web is a cultivar with less than 0.3% THC that has gained popularity as an option for treating seizures as well as a range of other medical conditions. This medical potency is due to its high-CBD content, which was specifically cultivated by Colorado breeders The Stanley Brothers for a young epileptic patient named Charlotte. Contrary to popular belief, Charlotte’s Web is a hemp-derived product with little to no psychoactive effects, making it great for those who don’t want their medication to affect their daily tasks. Charlotte’s powerful web may cause dizziness for some patients, so new users should be cautious. Learn more about Charlotte's Web here."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095da7"
+  },
+  "id": 1003,
+  "name": "Haze Berry",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Uplifted",
+      "Relaxed",
+      "Giggly",
+      "Energetic"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Paranoid",
+      "Anxious",
+      "Dizzy",
+      "Dry Eyes"
+    ],
+    "medical": [
+      "Depression",
+      "Fatigue",
+      "Stress",
+      "Pain",
+      "Cramps"
+    ]
+  },
+  "flavors": [
+    "Sweet",
+    "Blueberry",
+    "Berry"
+  ],
+  "description": "A cross between Super Silver Haze and DJ Short’s famous Blueberry, Haze Berry is an 80% sativa hybrid that has become quite popular for its combination of sweet berry, indica-like flavors and sativa highs. As you might expect from a plant with two extremely potent parents, Haze Berry routinely tests at well over 20% THC, and some cultivars have a significant amount of CBD as well. In addition, it provides higher than average yields and a relatively short flowering time of 9-10 weeks, making this a very attractive strain for sativa enthusiasts. Haze Berry gives the consumer a euphoric, creativity-inducing high that gradually gives way to a profound sensation of relaxation and well-being."
+},{
+  "_id": {
+    "$oid": "5f088f1633f5133030095e67"
+  },
+  "id": 1923,
+  "name": "Swiss Tsunami",
+  "race": "sativa",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Relaxed",
+      "Focused",
+      "Uplifted",
+      "Giggly"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes"
+    ],
+    "medical": [
+      "Pain",
+      "Depression",
+      "Stress",
+      "Insomnia",
+      "Headaches"
+    ]
+  },
+  "flavors": [
+    "Citrus",
+    "Earthy",
+    "Orange"
+  ],
+  "description": "Swiss Tsunami is a rare CBD-rich strain with a pungent smell. A genetic cross of Swiss Gold and Sour Tsunami, Swiss-Tsu is a potent pairing that can generate over 14% CBD with just 0.5% THC on average. Reeking of skunky, herbaceous terpenes and having the bright yet delicate flavor of orange peel on the exhale, Swiss Tsunami is a connoisseur CBD cut in a league of its own. Enjoy this strain to help relieve inflammation, nausea, and anxiety. "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f51330300960cd"
+  },
+  "id": 1829,
+  "name": "Stephen Hawking Kush",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Focused",
+      "Euphoric",
+      "Tingly"
+    ],
+    "negative": [
+      "Dry Eyes",
+      "Dry Mouth",
+      "Dizzy",
+      "Paranoid"
+    ],
+    "medical": [
+      "Pain",
+      "Stress",
+      "Inflammation",
+      "Nausea",
+      "Muscle Spasms",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Woody",
+    "Pine"
+  ],
+  "description": "Stephen Hawking Kush, or SHK, is the second release in the Great Minds series of seeds from Alphakronik Genes. Named for famed scientist Dr. Stephen Hawking, SHK was created by pollenating a Harle-Tsu female with a Sin City Kush male. This indica-dominant hybrid is also part of Alphakrokik Genes’ CBD+ line of genetics that emphasize high-CBD strains. There are 3 known phenotypes of Stephen Hawking Kush, all with vivid cherry and berry flavors that mix with a minty note. The soothing, relaxing effects help keep pain away and also stimulate your stomach to suppress nausea."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f1f"
+  },
+  "id": 445,
+  "name": "CBD Critical Cure",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Uplifted",
+      "Focused",
+      "Hungry"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Anxious",
+      "Dizzy"
+    ],
+    "medical": [
+      "Pain",
+      "Stress",
+      "Depression",
+      "Inflammation",
+      "Muscle Spasms",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Sweet",
+    "Pine"
+  ],
+  "description": "From Barney’s Farm comes CBD Critical Cure (or simply “Critical Cure”), an indica-dominant strain that’s said to combine Critical Kush with a ruderalis variety. Because this strain typically contains about 8 percent CBD and 5 percent THC, Critical Cure can annihilate pain, stress, and inflammation with little psychoactive interference. The indica influence in CBD Critical Cure gives rise to deeply relaxing effects delivered alongside a sweet, earthy flavor."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f20"
+  },
+  "id": 449,
+  "name": "CBD OX",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Aroused",
+      "Happy",
+      "Sleepy",
+      "Euphoric",
+      "Hungry"
+    ],
+    "negative": [
+      "Dizzy",
+      "Dry Eyes",
+      "Dry Mouth"
+    ],
+    "medical": [
+      "Depression",
+      "Insomnia",
+      "Pain",
+      "Stress",
+      "Cramps"
+    ]
+  },
+  "flavors": [
+    "Berry",
+    "Flowery",
+    "Sweet"
+  ],
+  "description": "CBD OX by Rare Dankness is a 1:1 CBD/THC strain that grows deep green buds with bright orange hairs. This pleasant strain is a 90% indica-dominant cross of Rare Dankesss’s OX male and a CBD-rich cultivar, Shak. CBD OX has a spicy flavor and deep notes of coffee and berry. The breeder recommends utilizing this strain’s calming effects to abate anxiety and diminish physical discomfort. "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f513303009601e"
+  },
+  "id": 1343,
+  "name": "Mazar I Sharif",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Euphoric",
+      "Sleepy",
+      "Creative"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Paranoid",
+      "Dry Eyes",
+      "Dizzy",
+      "Anxious"
+    ],
+    "medical": [
+      "Pain",
+      "Insomnia",
+      "Lack of Appetite",
+      "Muscle Spasms",
+      "Inflammation"
+    ]
+  },
+  "flavors": [
+    "Sweet",
+    "Spicy/Herbal",
+    "Citrus"
+  ],
+  "description": "A legendary strain grown in the far north of Afghanistan.  In fertile and well-irrigated soils these vigorous giants are capable of reaching 4 metres in height or more, and will produce a similarly immense yield of intensely resinous flowers.  Over-indulgence produces a mind-warping, immobilising and narcotic effect. One of this strain's phenotypes has been described as producing \"very potent physical relaxation\"; this is likely to be indicative of high CBD levels."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030096071"
+  },
+  "id": 1586,
+  "name": "Pokie",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Euphoric",
+      "Happy",
+      "Relaxed",
+      "Focused",
+      "Creative"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Anxious",
+      "Dizzy",
+      "Paranoid"
+    ],
+    "medical": [
+      "Headaches",
+      "Cramps",
+      "Depression",
+      "Pain",
+      "Stress"
+    ]
+  },
+  "flavors": [
+    "Butter",
+    "Cheese",
+    "Citrus"
+  ],
+  "description": "Pokie is an indica-dominant strain that descends from a Pure Kush and LA Confidential hybrid and a Sweet Tooth and Juicy Fruit cross. Sister to the high-CBD indica Gumbi, Pokie caters to those more concerned with a high-THC content. Its earthy chocolate flavors are met with tranquilizing effects that relax the body without too much fogginess in the mind."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f513303009611c"
+  },
+  "id": 2149,
+  "name": "Yeti OG",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Euphoric",
+      "Sleepy",
+      "Happy"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Mouth"
+    ],
+    "medical": [
+      "Stress",
+      "Insomnia",
+      "Depression",
+      "Pain",
+      "Cramps"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Pungent",
+    "Woody"
+  ],
+  "description": "Originally known as the Headband BX, Yeti OG was bred by NorCal collective Loompa Farms and has become a highly sought after strain due to its incredible taste and heavy yields. This 70/30 indica-dominant strain usually has THC levels over 20% and CBD levels above 3%, making it a very good choice for relaxation and pain relief. Featuring a rich, creamy-tasting smoke with strong undertones of diesel fuel and hints of lemon and pine, Yeti OG is a favorite with connoisseurs of flavorful cannabis.  "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f51330300960a0"
+  },
+  "id": 1684,
+  "name": "Quin-N-Tonic",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Hungry",
+      "Focused",
+      "Tingly"
+    ],
+    "negative": [
+      "Dry Eyes",
+      "Dry Mouth"
+    ],
+    "medical": [
+      "Stress",
+      "Pain",
+      "Depression",
+      "Lack of Appetite",
+      "Nausea"
+    ]
+  },
+  "flavors": [
+    "Blueberry",
+    "Sweet",
+    "Pungent"
+  ],
+  "description": "Quin-N-Tonic is a high-CBD strain bred by La Plata Labs, who combines genetics from Harlequin and Cannatonic. Led by indica genetics, Quin-N-Tonic produces high yields of frosted purple-tipped buds that carry a sweet, dessert-like blueberry aroma. Its CBD-rich profile makes this strain an excellent choice for patients dealing with pain or inflammation, or for those made uncomfortable by THC’s psychoactive effects."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f51330300960ac"
+  },
+  "id": 1714,
+  "name": "Remedy",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Sleepy",
+      "Happy",
+      "Focused",
+      "Hungry"
+    ],
+    "negative": [
+      "Dry Mouth"
+    ],
+    "medical": [
+      "Stress",
+      "Pain",
+      "Depression",
+      "Insomnia",
+      "Inflammation"
+    ]
+  },
+  "flavors": [
+    "Citrus",
+    "Earthy",
+    "Woody"
+  ],
+  "description": "Remedy, a cross between Cannatonic and Afghan Skunk, is a high-CBD strain that induces little to no psychoactive effects. Remedy can reach CBD levels as high as 15% while THC is found in only trace amounts of less than 1%. Yellow-tinted buds hide under a sheath of crystal trichomes and carry a lemon-pine scent. Upon inhaling the sweet, floral notes of Remedy, the consumer is lifted into a state of mellow relaxation that differs greatly from the jarring experience induced by high THC strains. Patients looking to medicate without the pronounced head and body effects may turn to Remedy to treat seizures, pain, autism, inflammation, and anxiety disorders. Growers hoping to cultivate this highly medicinal strain should allow a 6 to 8 week flowering time in indoor gardens."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f51330300960eb"
+  },
+  "id": 1970,
+  "name": "The OX",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Hungry",
+      "Euphoric",
+      "Creative",
+      "Sleepy"
+    ],
+    "negative": [
+      "Dry Eyes",
+      "Dry Mouth",
+      "Paranoid"
+    ],
+    "medical": [
+      "Pain",
+      "Inflammation",
+      "Cramps",
+      "Muscle Spasms",
+      "Stress"
+    ]
+  },
+  "flavors": [
+    "Berry",
+    "Coffee",
+    "Pungent"
+  ],
+  "description": "Rare Dankness created their own version of Bubba Kush by crossing it with their Stone Mountain, a Bubba Kush and Blue Moonshine hybrid. The OX has a delightful flavor of coffee and berries, and a high CBD content, making it a good choice for medical users. Many indica hybrids have been created using The OX, including Chem OX, Blue OX, and Harlox."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095e9a"
+  },
+  "id": 32,
+  "name": "Aliens On Moonshine",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Focused",
+      "Tingly"
+    ],
+    "negative": [],
+    "medical": [
+      "Depression",
+      "Headaches",
+      "Inflammation",
+      "Stress"
+    ]
+  },
+  "flavors": [
+    "Berry",
+    "Butter",
+    "Citrus"
+  ],
+  "description": "Aliens On Moonshine by Sin City Seeds is a potent CBD-rich phenotype of The Cali Connection’s Sour Alien crossed with White Moonshine. This indica-dominant strain emits a funky aroma that is a clashing of sour, sweet, and chemicals. The 5:1 CBD/THC ratio gives Aliens On Moonshine potent medicinal properties while remaining mostly functional. Its effects land firmly in the body and can assist with inflammation, irritability, and minor physical discomfort. The uplifting, clearheaded buzz and soothing physical effects make Aliens On Moonshine an excellent add-in or standalone strain for CBD lovers everywhere.    "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f39"
+  },
+  "id": 563,
+  "name": "Church OG",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Euphoric",
+      "Uplifted",
+      "Happy",
+      "Focused"
+    ],
+    "negative": [
+      "Paranoid",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Anxious",
+      "Dizzy"
+    ],
+    "medical": [
+      "Stress",
+      "Insomnia",
+      "Fatigue",
+      "Pain",
+      "Spasticity"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Woody",
+    "Spicy/Herbal"
+  ],
+  "description": "Church OG is an indica marijuana strain that provides strong body sensations that may evolve to a lasting cerebral effect. Its buds are known to be mold resistant, and the strain is grown in various mountain regions. Church OG is known for its dark green leaves with orange hairs and purple hues throughout. With a lineage of God's Gift and OG Kush, this strain has a THC level of up to 19% and a CBD level of up to 0.23%."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f61"
+  },
+  "id": 670,
+  "name": "Devil Fruit",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Euphoric",
+      "Happy",
+      "Focused"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Anxious",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "medical": [
+      "Insomnia",
+      "Stress",
+      "Depression",
+      "Pain",
+      "Spasticity"
+    ]
+  },
+  "flavors": [
+    "Pepper",
+    "Woody",
+    "Spicy/Herbal"
+  ],
+  "description": "Devil Fruit is a 70% indica strain bred by Medical Seed Co. through crossing Shiskaberry and Great White Shark. This high-CBD Spanish strain is sweet and spicy in flavor and delivers a light cerebral stimulation followed by comfortable full-body effects. Outdoor Devil Fruit plants finish in the first half of October while indoor gardens flower in about 65 days."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f51330300960ce"
+  },
+  "id": 1837,
+  "name": "Strawberry Cheesecake",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Uplifted",
+      "Happy",
+      "Euphoric",
+      "Hungry"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Anxious",
+      "Paranoid"
+    ],
+    "medical": [
+      "Depression",
+      "Pain",
+      "Stress",
+      "Headaches",
+      "Lack of Appetite"
+    ]
+  },
+  "flavors": [
+    "Sweet",
+    "Strawberry",
+    "Flowery"
+  ],
+  "description": "By combining Chronic, White Widow, and Cheese, Heavyweight Seeds has created a delicious 70% indica-dominant hybrid deserving of the name Strawberry Cheesecake. The intensely sweet, creamy berry flavors of this strain linger on the palate while pain melts away and the mind soars with creative energy. Featuring THC levels over 20% and CBD levels of 2% or more, Strawberry Cheesecake can be beneficial in managing chronic pain as well as treating symptoms of depression and chronic fatigue.   "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f56"
+  },
+  "id": 651,
+  "name": "Dark Star",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Euphoric",
+      "Sleepy",
+      "Happy",
+      "Hungry"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Dizzy",
+      "Paranoid"
+    ],
+    "medical": [
+      "Pain",
+      "Stress",
+      "Depression",
+      "Insomnia",
+      "Headaches",
+      "Headache"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Woody",
+    "Pine"
+  ],
+  "description": "Dark Star’s true indica effects are as spacey as its name suggests: a deep, relaxed sensation throughout the body accompanied by a heavy cerebral calm. Though celestial in its effects, the strain is more likely homage to the Grateful Dead’s song “Dark Star.” A cross between Purple Kush and Mazar-I-Sharif, Dark Star is a CBD-rich indica ideal for treating pain and anxiety. This dark--almost bluish--strain was first bred indoors by T.H. Seeds, and comes as a challenge to many growers with its slow, 10-week flowering period. Its sour-smelling buds are dense and compact, ornamented with crystals and copper hairs."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f8d"
+  },
+  "id": 814,
+  "name": "Frida",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Creative",
+      "Sleepy",
+      "Uplifted"
+    ],
+    "negative": [
+      "Anxious"
+    ],
+    "medical": [
+      "Inflammation",
+      "Pain",
+      "Stress",
+      "Fatigue",
+      "Insomnia"
+    ]
+  },
+  "flavors": [
+    "Lemon",
+    "Citrus",
+    "Sweet"
+  ],
+  "description": "With the dense, full flavor of her indica parentage and over 12% CBD from an ACDC mother, Frida is a complex and enchanting strain that provides relief for mind and body while fueling inspiration, sensuality, appetite, and meditation. Named in celebration of “The Heroine of Pain,” Frida by Raven Grass reminds the consumer to reach further, encouraging physical wellness without encumbering you with sedation. Enjoy Frida’s therapeutic effects as a panacea for hangovers, chronic pain, anxiety, and depression. This high-CBD indica-dominant hybrid is a beautiful stone-alone strain, but is also an excellent addition to cannabis blends.    "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f513303009606c"
+  },
+  "id": 1579,
+  "name": "Platinum Kush",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Euphoric",
+      "Sleepy",
+      "Hungry"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid",
+      "Anxious",
+      "Dizzy"
+    ],
+    "medical": [
+      "Stress",
+      "Insomnia",
+      "Pain",
+      "Lack of Appetite",
+      "Depression"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Sweet",
+    "Pungent"
+  ],
+  "description": "Platinum Kush is an indica-dominant strain that takes on a platinum-silver shade due to its thick coat of crystal resin. With purple hues and bright orange hairs, its buds grow dense with a sweet fruity and hashy aroma. Its THC content can measure up to about 18% with trace levels of CBD, and its buzz has been described as strongly cerebral and body-numbing."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f38"
+  },
+  "id": 559,
+  "name": "Chronic Thunder",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Sleepy",
+      "Euphoric",
+      "Hungry"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Anxious",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "medical": [
+      "Pain",
+      "Insomnia",
+      "Muscle Spasms",
+      "Stress",
+      "Lack of Appetite"
+    ]
+  },
+  "flavors": [
+    "Diesel",
+    "Pungent",
+    "Earthy"
+  ],
+  "description": "Chronic Thunder is an indica strain bred by Barney’s Farm that offers full-body effects alongside a funky diesel and spicy pepper aroma. Save this heavy-hitter for a day in which you find your to-do list blank, because this indica will have you stuck in a comfortable place for a while. With moderate levels of CBD, Chronic Thunder is preferred for resolving insomnia, pain, and upset stomachs."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f89"
+  },
+  "id": 809,
+  "name": "Four Way",
+  "race": "indica",
+  "effects": {
+    "positive": [],
+    "negative": [],
+    "medical": []
+  },
+  "flavors": [],
+  "description": "Four Way is a sticky genetic foursome of landrace genetics and Skunk #1. Created through the union of three Middle Eastern landrace strains (Afghani, Indian, and Pakistani) plus the addition of the classic Skunk #1, you best believe Four Way produces an odor that could tip an elephant, much less fill the room it’s being consumed in. Known for an average cannabinoid profile of between 15-20% THC and 2% CBD, Four Way manages a creeping sedative bent that permeates the skin with warm, weighted sensations that guide you toward sleep. Four Way’s old world terpene profile reeks of hashy spice, earth, pepper, and skunk.   "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095fc8"
+  },
+  "id": 970,
+  "name": "Hammerhead",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Aroused",
+      "Creative",
+      "Relaxed",
+      "Sleepy",
+      "Tingly"
+    ],
+    "negative": [],
+    "medical": [
+      "Depression",
+      "Headaches",
+      "Insomnia",
+      "Pain",
+      "Stress"
+    ]
+  },
+  "flavors": [],
+  "description": "Hammerhead is a pungent indica-dominant strain that develops dense, trichome-coated buds with a small boost of CBD. These physical attributes speak to the strain’s White Rhino and Medicine Man genetics, which also lend Hammerhead effects of sleep-inducing, full-body relaxation. Its buds are dense and deep green with a showing of light amber hairs. Hammerhead exhibits notes of fruit, honey, and pungent dankness, making it as appetizing as it is effective.  "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f51330300960e2"
+  },
+  "id": 1918,
+  "name": "Sweet and Sour Widow",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Happy",
+      "Euphoric",
+      "Sleepy",
+      "Uplifted"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dizzy",
+      "Paranoid"
+    ],
+    "medical": [
+      "Stress",
+      "Insomnia",
+      "Pain",
+      "Depression",
+      "Fatigue"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Sweet",
+    "Woody"
+  ],
+  "description": "Bred by CBD Crew, Sweet and Sour Widow is a 70/30 indica-dominant cannabis strain with a 1:1 CBD-THC ratio and a subtle sweet onion aroma. Because of its balanced cannabinoid profile, Sweet and Sour Widow’s psychoactive effects are mild, making this strain suitable for novice consumers and patients needing to medicate without a foggy head. Sweet and Sour Widow is derived from White Widow genetics and an unnamed sativa-hybrid to accentuate its CBD profile. "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095efa"
+  },
+  "id": 314,
+  "name": "Blue Blood",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Relaxed",
+      "Sleepy",
+      "Euphoric",
+      "Happy",
+      "Creative"
+    ],
+    "negative": [],
+    "medical": [
+      "Stress",
+      "Inflammation",
+      "Muscle Spasms",
+      "Pain",
+      "Depression"
+    ]
+  },
+  "flavors": [
+    "Blueberry",
+    "Earthy",
+    "Sweet"
+  ],
+  "description": "Blue Blood from breeder Medicann is an indica-dominant cross of OG Kush and Blueberry. It carries on the potent legacy of OG Kush genetics and adds a sweet berry flavor to the pine and diesel undertones. Some Blue Blood phenotypes have proven to show a tendency towards higher CBD levels which adds to the already relaxing nature of this strain. "
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030095f64"
+  },
+  "id": 678,
+  "name": "Digweed",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Happy",
+      "Relaxed",
+      "Uplifted",
+      "Creative",
+      "Sleepy"
+    ],
+    "negative": [
+      "Dry Mouth",
+      "Dizzy",
+      "Dry Eyes"
+    ],
+    "medical": [
+      "Pain",
+      "Stress",
+      "Depression",
+      "Inflammation",
+      "Cramps"
+    ]
+  },
+  "flavors": [
+    "Earthy",
+    "Skunk",
+    "Pungent"
+  ],
+  "description": "Digweed is an indica-dominant strain that was named after a cat with a sweet tooth for cannabis plants. This high-CBD cross between Afghani and Sweet Tooth has a fruity, floral aroma and is often chosen by patients treating chronic pain, stress, and muscle spasms."
+},{
+  "_id": {
+    "$oid": "5f088f4e33f5133030096042"
+  },
+  "id": 1442,
+  "name": "Nova",
+  "race": "indica",
+  "effects": {
+    "positive": [
+      "Creative",
+      "Euphoric",
+      "Relaxed"
+    ],
+    "negative": [],
+    "medical": [
+      "Depression",
+      "Inflammation"
+    ]
+  },
+  "flavors": [
+    "Berry",
+    "Earthy",
+    "Pine"
+  ],
+  "description": "Nova is Canadian LP Tweed’s version of Pennywise, an indica-dominant cannabis strain with an equal ratio of THC and CBD. This combination of cannabinoids offers enhanced therapeutic effects for patients treating pain, anxiety, inflammation, stress disorders, and many other symptoms and conditions. Nova combines genetics from Jack the Ripper and Harlequin, who pass on relaxed and focused effects perfect for daytime medicating or productive afternoons. The aroma is subtle, but sweet woody notes with spicy pepper undertones can be detected on the exhale."
+}]
