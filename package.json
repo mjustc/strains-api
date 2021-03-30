@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node server.js",
-    "test": "nodemon server.js",
-    "heroku-postbuild": "cd client && npm install && npm run build"
+    "test": "nodemon server.js"
   },
   "dependencies": {
     "debug": "~2.6.9",
