@@ -54,10 +54,10 @@ app.use(bodyParser.json());
 // Serve the static files from the React app
 app.use(express.static(path.join(__dirname, 'cbd-store/build')));
 
-app.use('/survey', surveyRoutes);
-app.use('/strains', strainRoutes);
-app.use('/effects', effectsRoutes);
-app.use('/flavors', flavorsRoutes);
+app.use('api/survey', surveyRoutes);
+app.use('api/strains', strainRoutes);
+app.use('api/effects', effectsRoutes);
+app.use('api/flavors', flavorsRoutes);
 
 app.use((req, res, next) => {
     res.header("Access-Control-Allow-Origin", "*");
