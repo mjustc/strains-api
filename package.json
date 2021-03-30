@@ -1,10 +1,11 @@
 {
-  "name": "seedsapp",
-  "version": "0.0.0",
+  "name": "cbd-strains-api",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node server.js",
-    "test": "nodemon server.js"
+    "test": "nodemon server.js",
+    "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "dependencies": {
     "debug": "~2.6.9",

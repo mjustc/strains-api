@@ -40,10 +40,10 @@ router.post('/', (req, res, next) => {
         {
             $and: [
                 race ? { 'race' : { $regex: race, $options: 'i' } } : {},
-                effects_positive ? { 'effects.positive' : { $all: effects_positive } } : {},
-                effects_medical ? { 'effects.medical' : { $all: effects_medical } } : {},
+                effects_positive ? { 'effects.positive' : { $in: effects_positive } } : {},
+                effects_medical ? { 'effects.medical' : { $in: effects_medical } } : {},
                 effects_negative ? { 'effects.negative' : { $nin: effects_negative } } : {},
-                flavor ? {'flavors' : { $all: flavor} } : {}
+                flavor ? {'flavors' : { $in: flavor} } : {}
              ]
         }
     )

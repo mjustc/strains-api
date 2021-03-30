@@ -25,7 +25,7 @@ router.get('/', (req, res, next) => {
 /**
  * @route GET /flavors/common
  * @summary Get flavors sorted by more common
- * @group Effects - Operations with flavors
+ * @group Flavors - Operations with flavors
  * @returns {object} 200 - Flavors
  * @returns {Error}  default - Unexpected error
  */

@@ -10,12 +10,11 @@ const strainRoutes = require('./routes/strains');
 const effectsRoutes = require('./routes/effects');
 const flavorsRoutes = require('./routes/flavors');
 
-const uri = 'mongodb://127.0.0.1:27017/local'
-
+//swagger
 let options = {
     swaggerDefinition: {
         info: {
-            description: 'API to search for CBD strains',
+            description: "Discover your favorite CBD strains",
             title: 'Swagger',
             version: '1.0.0',
         },
@@ -34,17 +33,21 @@ let options = {
             }
         }
     },
-    basedir: __dirname, //app absolute path
-    files: ['./routes/*.js', './models/*.js'] //Path to the API handle folder
+    basedir: __dirname,
+    files: ['./routes/*.js', './models/*.js']
 };
 
 expressSwagger(options)
+
+//mongo
+//const uri = 'mongodb://127.0.0.1:27017/local'
+//const uri = 'mongodb+srv://mongo:goose@cluster0.dci8l.mongodb.net/futurama?retryWrites=true&w=majority'
+//const uri = process.env.MONGODB_URI;
 mongoose.connect(uri, function (error) {
     if (error) throw error;
     console.log("Connected to mongo db local");
 });
 
-//app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
