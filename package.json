@@ -16,7 +16,8 @@
     "node-fetch": "^2.6.0",
     "request": "^2.88.2",
     "swagger-jsdoc": "^6.0.0-rc.5",
-    "swagger-ui-express": "^4.1.5"
+    "swagger-ui-express": "^4.1.5",
+    "express-swagger-generator": "^1.1.17"
   },
   "devDependencies": {
     "express-swagger-generator": "^1.1.17",
