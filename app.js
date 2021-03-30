@@ -42,7 +42,7 @@ expressSwagger(options)
 //mongo
 //const uri = 'mongodb://127.0.0.1:27017/local'
 //const uri = 'mongodb+srv://mongo:goose@cluster0.dci8l.mongodb.net/futurama?retryWrites=true&w=majority'
-//const uri = process.env.MONGODB_URI;
+const uri = process.env.MONGODB_URI;
 mongoose.connect(uri, function (error) {
     if (error) throw error;
     console.log("Connected to mongo db local");
