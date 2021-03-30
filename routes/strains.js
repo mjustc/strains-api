@@ -25,6 +25,20 @@ router.get('/', (req, res, next) => {
     });
 });
 
+
+router.get('/filtered', (req, res, next) => {
+  const projection = {
+    '_id': 0,
+  };
+
+  Models.Strains.find({}, projection)
+    .limit(500)
+    .exec((err, result) => {
+      if (err) throw err
+      res.status(200).json(result);
+    });
+});
+
 /**
  * @route GET /strains/medical
  * @summary Get strains that includes selected medical effects

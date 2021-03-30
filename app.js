@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const path = require('path');
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
@@ -40,7 +41,6 @@ let options = {
 expressSwagger(options)
 
 //mongo
-//const uri = 'mongodb://127.0.0.1:27017/local'
 const uri = process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/local";
 mongoose.connect(uri, function (error) {
     if (error) throw error;
@@ -50,6 +50,9 @@ mongoose.connect(uri, function (error) {
 app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+
+// Serve the static files from the React app
+app.use(express.static(path.join(__dirname, 'cbd-store/build')));
 
 app.use('/survey', surveyRoutes);
 app.use('/strains', strainRoutes);

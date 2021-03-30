@@ -61,7 +61,7 @@ router.get('/:type', (req, res, next) => {
  * @returns {object} 200 - Effects
  * @returns {Error}  default - Unexpected error
  */
-router.get('/common/medical/', (req, res, next) => {
+router.get('/common/medical', (req, res, next) => {
 
   Models.Strains.aggregate([{
     $unwind: {
@@ -96,7 +96,7 @@ router.get('/common/medical/', (req, res, next) => {
  * @returns {object} 200 - Effects
  * @returns {Error}  default - Unexpected error
  */
-router.get('/common/positive/', (req, res, next) => {
+router.get('/common/positive', (req, res, next) => {
 
   Models.Strains.aggregate([{
     $unwind: {
@@ -131,7 +131,7 @@ router.get('/common/positive/', (req, res, next) => {
  * @returns {object} 200 - Effects
  * @returns {Error}  default - Unexpected error
  */
-router.get('/common/negative/', (req, res, next) => {
+router.get('/common/negative', (req, res, next) => {
 
   Models.Strains.aggregate([{
     $unwind: {

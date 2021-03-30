@@ -5,16 +5,12 @@ const mongoose = require('mongoose');
  * @property {integer} id
  * @property {string} name
  * @property {string} race
- * @property {Array.<Effect>} effects
- * @property {Array.<Flavor>} flavors
  */
 const strains = mongoose.Schema({
     _id: mongoose.Schema.Types.ObjectId,
     id: Number,
     name: String,
-    race: String,
-    effects: [],
-    flavors: []
+    race: String
 });
 
 /**
